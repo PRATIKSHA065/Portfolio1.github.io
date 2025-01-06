@@ -9,9 +9,10 @@ C++, C, Python t
 Data Structures and Algorithms
 
 🌐 Find Me Online
-GitHub
-LinkedIn
-Portfolio
+GitHub(https://github.com/PRATIKSHA065/Portfolio1.github.io/edit/main/README.md)
+LinkedIn(https://www.linkedin.com/in/pratiksha-magadum-8b97b9307/)
+Portfolio(https://github.com/PRATIKSHA065/Portfolio1.github.io/edit/main/README.md)
+
 Course Details
 Course Name: Algorithmic Problem Solving
 
